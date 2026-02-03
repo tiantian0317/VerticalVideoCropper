@@ -1,0 +1,19 @@
+# 垂直视频裁剪工具依赖包
+# 版本号基于原项目的requirements.txt进行适配
+
+# 核心视频处理库
+opencv-python==4.7.0.72
+numpy==1.26.0
+moviepy==1.0.3
+
+# GUI界面库
+PySide6==6.5.0
+
+# 可选：用于更高质量的视频编码（可选安装）
+# ffmpeg-python==0.2.0
+
+# 开发工具（可选）
+# tqdm==4.67.1  # 进度条显示
+
+# 注意：如果系统已安装FFmpeg，可以不安装ffmpeg-python
+# moviepy会自动使用系统FFmpeg
