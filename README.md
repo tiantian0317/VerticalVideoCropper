@@ -2,6 +2,23 @@
 
 一个独立的智能工具，用于将横屏视频自动裁剪为9:16垂直格式，支持多种智能裁剪算法。
 
+## 🖥️ Windows GUI 版本
+
+为了方便使用，我们提供了图形界面版本，无需安装Python和依赖库。
+
+### 下载与使用
+
+1. **下载 GUI 版本**：
+   - [VerticalVideoCropper.exe](https://github.com/tiantian0317/VerticalVideoCropper/releases/download/1.0/VerticalVideoCropper.exe)
+
+2. **截图预览**：
+   ![GUI 截图](https://github.com/tiantian0317/VerticalVideoCropper/blob/main/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20260203181512.png)
+
+3. **使用说明**：
+   - 直接双击运行 `VerticalVideoCropper.exe`
+   - 选择输入视频文件
+   - 配置裁剪参数（如裁剪模式、输出分辨率等）
+   - 点击开始处理按钮
 **📞 自媒体全家桶用户群：1076150045**
 
 ## 🎯 功能特性
@@ -244,4 +261,5 @@ MIT License - 详见LICENSE文件
 
 - [AI YouTube Shorts Generator](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator) - 原项目
 - [OpenCV](https://opencv.org/) - 计算机视觉库
+
 - [MoviePy](https://zulko.github.io/moviepy/) - 视频编辑库
